@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield / Badge -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,20 C42,20 33,26 33,35 C33,56 46,74 54,80 C62,74 75,56 75,35 C75,26 66,20 54,20 Z" />
+    <!-- Inner Shield Inset -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M54,24 C45,24 37,29 37,37 C37,54 47,69 54,75 C61,69 71,54 71,37 C71,29 63,24 54,24 Z" />
+    <!-- Center Five-Pointed Star -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,34 L56.8,42.5 L65.7,42.5 L58.5,47.8 L61.3,56.3 L54,51.0 L46.7,56.3 L49.5,47.8 L42.3,42.5 L51.2,42.5 Z" />
+    <!-- Bottom Police Stripes / Laurel Arch -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,60 C51,62 57,62 62,60 L62.8,62.5 C57.2,64.8 50.8,64.8 45.2,62.5 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M48,64 C51.8,65.5 56.2,65.5 60,64 L60.6,66 C56.4,67.6 51.6,67.6 47.4,66 Z" />
+</vector>
